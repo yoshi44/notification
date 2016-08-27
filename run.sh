@@ -1,2 +1,2 @@
 #!/bin/sh
-stack build && stack exec haskell-memo-exe
+stack build && stack exec notification-exe

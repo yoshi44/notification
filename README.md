@@ -1,4 +1,4 @@
-# haskell-memo
+# notification
 
 Mac setting
 
